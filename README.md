@@ -1,14 +1,16 @@
--Hi, I’m @Omar khalil 
+-Hi, I’m @Omar khalil // 
+
+Muslim
 
 Computer Science undergraduate
 
-learned basic Programming skills with c, c++, and java
+learned basic Programming skills with c, c++,c#, and java
 
 and some Problem Solving skills (Algorithms, dataStructures) - (Code Forces, LeetCode, Hackerrank)
 
-I Studied books like(Java How to Program, Head First Java, DataStructures using c++, and still studying Grokking Algorithms,  head first OOA & OOD)
+I Studied books like(Java How to Program, Head First Java, DataStructures using c++, and still : Grokking Algorithms,  head first OOA & OOD)
 
-Fundamentals of (basic of computer science, database DBMS, Information Systems, Operating Systems (Windows, Linux), MultiMedia, Computer Graphics (openGL))
+Fundamentals of (basic of computer science, database DBMS, Information Systems, Operating Systems (Windows, Linux), MultiMedia, Computer Graphics (openGL, java GUI))
 
 
 I'm Currently learning : 
