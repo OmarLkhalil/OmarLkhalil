@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Khalil</h1>
 <h3 align="center">Muslim\\ Undergraduate computer science - Seeking to be Android Software Engineer(Java - Kotlin)</h3>
 
-- 🌱 I’m currently learning **Android - Jetpack compose**
+- 🌱 I’m currently learning **Android - Koltin- Jetpack compose**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/omarlkhalil/](https://www.linkedin.com/in/omarlkhalil/)
 
