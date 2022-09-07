@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Mohamed Khalil</h1>
 <h3 align="center">Muslim || Undergraduate - native Android developer (Java - Kotlin)</h3>
 
-- 🌱 I’m currently learning **Kotlin - jetpack compose**
+- 🌱 I’m currently learning **Kotlin - Deep Dive into ( Android & High Quality UX)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
