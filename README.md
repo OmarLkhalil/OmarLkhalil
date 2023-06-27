@@ -2,8 +2,8 @@
 
 <hr>
 
-<h3>Android Developer</h3>
-<h3>Undergraduate Computer Science</h3>
+- Android Developer
+- Undergraduate Computer Science
 
 <hr>
 
