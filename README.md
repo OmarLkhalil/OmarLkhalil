@@ -3,7 +3,7 @@
 <hr>
 
 - Android Developer
-- Undergraduate Computer Science
+- Computer Science
 
 <hr>
 
@@ -13,7 +13,7 @@
 
 <p><a href="https://www.linkedin.com/in/omarlkhalil/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
-<hr>
+<hr> BCompSc 
 
 <h2>Samples from my projects</h2>
 
