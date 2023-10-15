@@ -3,7 +3,7 @@
 <hr>
 
 - Android Developer
-- Computer Science
+- BCompSc 
 
 <hr>
 
