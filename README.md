@@ -13,7 +13,7 @@
 <p align="left">
   <a href="https://twitter.com/ltom1290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ltom1290" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/omarlkhalil/" target="blank">
-    <img align="center" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-Square-Dark-300x300.png" alt="omarlkhalil" height="30" width="40" />
+    <img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/linkedin-3506278-2932736.png?f=webp" alt="omarlkhalil" height="30" width="40" />
   </a>
 </p>
 
