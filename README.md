@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/ltom1290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ltom1290" height="30" width="40" /></a>
+  <a href="https://twitter.com/ltom1290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ltom1290" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/omarlkhalil/" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/linkedin-3506278-2932736.png?f=webp" alt="omarlkhalil" height="30" width="40" />
+    <img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/linkedin-3506278-2932736.png?f=webp" alt="omarlkhalil" height="40" width="40" />
   </a>
 </p>
 
