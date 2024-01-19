@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=omarlkhalil&label=Profile%20views&color=0e75b6&style=flat" alt="omarlkhalil" />
 </p>
 
-<p align="left"> <a href="https://twitter.com/ltom1290" target="blank"><img src="https://img.shields.io/twitter/follow/ltom1290?logo=twitter&style=for-the-badge" alt="ltom1290" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ltom129" target="blank"><img src="https://img.shields.io/twitter/follow/ltom129?logo=twitter&style=for-the-badge" alt="ltom129" /></a> </p>
 
 - 📫 How to reach me **omarkkhalil12@gmail.com**
 
