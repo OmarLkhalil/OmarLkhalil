@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋, I'm Omar Khalil</h1>
-<h3 align="start">An Android Developer</h3>
+<h3 align="start">Mobile App Developer ( Android & IOS )👍 </h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=omarlkhalil&label=Profile%20views&color=0e75b6&style=flat" alt="omarlkhalil" />
