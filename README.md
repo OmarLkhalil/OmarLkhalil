@@ -36,19 +36,19 @@ val developer = Developer(
 
 ## 📱 **FEATURED APPS**
 
-### 🎮 **Loopz** - Gaming Entertainment Hub (Kuwait 🇰🇼)
+### 🎮 **Loopz E-commerce** - Gaming Entertainment Hub (Kuwait 🇰🇼)
 <a href="https://play.google.com/store/apps/details?id=com.raiyansoft.loopz"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 <a href="https://www.instagram.com/loopz.q8/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
-Game purchases, rentals & ticket booking • Lead Android Developer
+Game purchases, rentals & ticket booking 
 
 ---
 
-### 🎯 **ORD** - Gaming Marketplace (Kuwait 🎮)
+### 🎯 **ORD E-commerce** - Gaming Marketplace (Kuwait 🎮)
 <a href="https://play.google.com/store/apps/details?id=com.raiyansoft.ord"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 <a href="https://www.instagram.com/ord_app/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
-Secure trading platform for game accounts & devices • Real-time chat & video player
+Secure trading platform for game accounts & devices • Real-time chat & video player 
 
 ---
 
@@ -56,7 +56,7 @@ Secure trading platform for game accounts & devices • Real-time chat & video p
 <a href="https://play.google.com/store/apps/details?id=com.social.attachin"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 <a href="https://app.attachin.com/"><img src="https://img.shields.io/badge/Website-FF4655?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 
-University students networking • Android Developer & Mentor • Jetpack Compose
+University students networking  • Jetpack Compose 
 
 ---
 
@@ -70,21 +70,21 @@ Production-ready KMP project • MVI + Clean Architecture • CI/CD Pipeline
 ### ⚽ **Calma** - Sports & E-commerce (Jordan 🇯🇴)
 <a href="https://play.google.com/store/apps/details?id=com.metafortech.calmaa"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 
-Sports tickets & gear marketplace • Live streaming • Socket.IO chat
+Sports tickets & gear marketplace • Live streaming • Socket.IO chat • Android Developer
 
 ---
 
 ### 📿 **Wasareeo** - Islamic Azkar App 🤲
 <a href="https://play.google.com/store/apps/details?id=com.mahmoudyousef.wasareeo"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 
-Azkar, Names of Allah & Hadiths • Jetpack Compose • Dark/Light themes
+Azkar, Names of Allah & Hadiths • Jetpack Compose • Dark/Light themes 
 
 
 ---
 
 ## 🛠️ **TECH STACK**
 
-**Mobile:** Kotlin • Android • Jetpack Compose • KMP • Java • Dart  
+**Mobile:** Kotlin • Android • Jetpack Compose • KMP/CMP • Java • Dart • Flutter 
 **Backend:** Spring Boot • Ktor • GraphQL • REST API • PostgreSQL  
 **Architecture:** Clean Architecture • MVVM • MVI • Modular Design  
 **Real-time:** Socket.IO • WebRTC • Pusher • Firebase  
