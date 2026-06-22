@@ -22,14 +22,12 @@
 
 ```kotlin
 val developer = Developer(
-    currentRole = "Software Engineer @Seel",
-    location = "Cairo, Egypt 🇪🇬",
+    currentRole = "Software Engineer",
+    location = "CA, ON",
     experience = "2022 - Present",
     delivered = "20+ Production Apps"
 )
 ```
-
-**Software Engineer [@Seel](https://seel.com.sa)** - Building next-generation property management solutions
 
 
 ---
