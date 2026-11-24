@@ -1,8 +1,86 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=OMAR%20KHALIL&fontSize=90&fontColor=3DDC84&animation=twinkling&fontAlignY=35&desc=KOTLIN%20FULL-STACK%20DEVELOPER%20%7C%20ANDROID%20EXPERT&descSize=20&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:161616,100:000000&height=230&section=header&text=END%20OF%20AN%20ERA.&fontSize=55&fontColor=8B0000&fontAlignY=40&desc=2021%20%E2%80%94%202026%20%7C%20THE%20FINAL%20CHAPTER&descSize=17&descAlignY=65" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=800&lines=🚀+BUILDING+THE+FUTURE;⚡+KOTLIN+MULTIPLATFORM+EXPERT;🔥+ANDROID+%7C+iOS+%7C+BACKEND;💎+20%2B+APPS+DELIVERED)](https://git.io/typing-svg)
+![Status](https://img.shields.io/badge/STATUS-PERMANENTLY_CLOSED-8B0000?style=for-the-badge)
+![Development](https://img.shields.io/badge/DEVELOPMENT-DISCONTINUED-161616?style=for-the-badge)
+![Activity](https://img.shields.io/badge/ACTIVITY-OFFLINE-161616?style=for-the-badge)
+
+# Omar Mohamed Khalil
+
+**Former Software Engineer. Former Android Developer.**
+
+*Emphasis on former.*
+
+</div>
+
+---
+
+## The Final Chapter.
+
+After spending five years of my life writing code, building applications, debugging endless problems, and sacrificing countless hours of sleep, I have officially walked away from software development.
+
+No more Android.  
+No more backend.  
+No more programming.  
+No more headaches, back pain, or sleepless nights.
+
+I finally found my life and career in a completely different field, far away from programming, and I have no intention of going back.
+
+The industry I once knew is no longer the same. The rise of AI-generated code and the increasing dependence on automated development tools have destroyed much of what originally made programming meaningful to me.
+
+What was once a craft has become something I no longer recognize.
+
+---
+
+## Written by a Human.
+
+Every line of code in the projects listed below was written manually, without AI-generated code.
+
+**100% human-written.**
+
+Before AI coding assistants became part of everyday development, there were countless hours of research, documentation, trial and error, debugging, and actual problem-solving.
+
+Some of these projects were developed using Java and C++, while my later work was primarily written in Kotlin.
+
+No prompts.  
+No generated solutions.  
+Just a human, a keyboard, and far too many wasted hours.
+
+---
+
+## Remnants of a Previous Life.
+
+Below are a few of the 20+ applications and projects I spent years of my life building before finally moving on.
+
+| Project | Description | Archive |
+| :--- | :--- | :--- |
+| **Loopz** | Gaming e-commerce, rentals and entertainment platform — Kuwait | [Google Play](https://play.google.com/store/apps/details?id=com.raiyansoft.loopz) |
+| **ORD** | Gaming marketplace with real-time communication — Kuwait | [Google Play](https://play.google.com/store/apps/details?id=com.raiyansoft.ord) |
+| **AttachIn** | University students social networking platform — Egypt | [Google Play](https://play.google.com/store/apps/details?id=com.social.attachin) |
+| **ValorantUI** | Kotlin Multiplatform project with MVI and Clean Architecture | [Source Code](https://github.com/OmarLkhalil/ValorantUI) |
+| **Calma** | Sports marketplace, live streaming and real-time chat — Jordan | [Google Play](https://play.google.com/store/apps/details?id=com.metafortech.calmaa) |
+| **Wasareeo** | Islamic application built with Jetpack Compose | [Google Play](https://play.google.com/store/apps/details?id=com.mahmoudyousef.wasareeo) |
+
+These projects remain here solely as a record of a chapter of my life that has ended.
+
+---
+
+## Account Closed.
+
+This profile is no longer maintained.
+
+There will be no new projects, no updates, no contributions, and no return to software development.
+
+The repositories will remain as they are.
+
+If you wish to reach me for anything unrelated to programming:
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarkkhalil12@gmail.com)
+[![Snapchat](https://img.shields.io/badge/SNAPCHAT-Larrypogidude-222222?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/Larrypogidude)
 
 </div>
 
@@ -10,112 +88,20 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=omarlkhalil&label=VISITORS&color=3DDC84&style=flat-square)
-[![GitHub](https://img.shields.io/github/followers/omarlkhalil?label=Followers&style=flat-square&color=3DDC84&logo=github)](https://github.com/omarlkhalil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omarkhalil129/)
+### Five years. Thousands of hours. One final commit.
+
+**I spent years building software.**
+
+**Now, I'm building a life.**
+
+`git commit -m "Goodbye, software development."`
+
+`Process finished. Exit code 0.`
+
+**November 2026.**
+
+*Signing off. Permanently.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:161616,100:000000&height=100&section=footer&text=GAME%20OVER.&fontSize=30&fontColor=8B0000" width="100%"/>
 
 </div>
-
----
-
-## 👨‍💻 **Omar Mohamed Khalil**
-
-```kotlin
-val developer = Developer(
-    currentRole = "Software Engineer",
-    location = "CA, ON",
-    experience = "2022 - Present",
-    delivered = "20+ Production Apps"
-)
-```
-
-
----
-
-## 📱 **FEATURED APPS**
-
-### 🎮 **Loopz E-commerce** - Gaming Entertainment Hub (Kuwait 🇰🇼)
-<a href="https://play.google.com/store/apps/details?id=com.raiyansoft.loopz"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
-<a href="https://www.instagram.com/loopz.q8/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-
-Game purchases, rentals & ticket booking 
-
----
-
-### 🎯 **ORD E-commerce** - Gaming Marketplace (Kuwait 🎮)
-<a href="https://play.google.com/store/apps/details?id=com.raiyansoft.ord"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
-<a href="https://www.instagram.com/ord_app/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-
-Secure trading platform for game accounts & devices • Real-time chat & video player 
-
----
-
-### 🎓 **AttachIn** - Student Social Platform (Egypt 🇪🇬)
-<a href="https://play.google.com/store/apps/details?id=com.social.attachin"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
-<a href="https://app.attachin.com/"><img src="https://img.shields.io/badge/Website-FF4655?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-
-University students networking  • Jetpack Compose 
-
----
-
-### ⚡ **ValorantUI** - Kotlin Multiplatform (KMP/CMP)
-<a href="https://github.com/OmarLkhalil/ValorantUI"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-Production-ready KMP project • MVI + Clean Architecture • CI/CD Pipeline
-
----
-
-### ⚽ **Calma** - Sports & E-commerce (Jordan 🇯🇴)
-<a href="https://play.google.com/store/apps/details?id=com.metafortech.calmaa"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
-
-Sports tickets & gear marketplace • Live streaming • Socket.IO chat • Android Developer
-
----
-
-### 📿 **Wasareeo** - Islamic Azkar App 🤲
-<a href="https://play.google.com/store/apps/details?id=com.mahmoudyousef.wasareeo"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
-
-Azkar, Names of Allah & Hadiths • Jetpack Compose • Dark/Light themes 
-
-
----
-
-## 🛠️ **TECH STACK**
-
-**Mobile:** Kotlin • Android • Jetpack Compose • KMP/CMP • Java • Dart • Flutter 
-**Backend:** Spring Boot • Ktor • GraphQL • REST API • PostgreSQL  
-**Architecture:** Clean Architecture • MVVM • MVI • Modular Design  
-**Real-time:** Socket.IO • WebRTC • Pusher • Firebase  
-**DI & Libraries:** Dagger Hilt • Koin • Retrofit • Coroutines • Room  
-**Tools:** Git • Docker • GitHub Actions • Nginx
-
----
-
-## 🌐 **CONNECT**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarkhalil129/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ltom129)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarkkhalil12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarlkhalil)
-
-**📱 +201008969301** | **📍 Cairo, Egypt**
-
-</div>
-
----
-
-<div align="center">
-
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-### *"CODE WITH PASSION, BUILD WITH PURPOSE"* 💚
-
-![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
-
-</div>
-
